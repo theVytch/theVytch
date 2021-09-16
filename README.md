@@ -1,5 +1,5 @@
 ### Olá, eu sou o Eduardo
-🌱 Estudando Java
+🌱 Atualmente busco me aperfeiçoar em Java.
 
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theVytch&layout=compact&langs_count=7&theme=dracula"/>
